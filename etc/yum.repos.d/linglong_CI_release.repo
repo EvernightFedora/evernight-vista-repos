@@ -1,0 +1,6 @@
+[linglong]
+name=LingLong for Evernight Vista $releasever
+type=rpm-md
+baseurl=https://ci.deepin.com/repo/obs/linglong:/CI:/release/Fedora_42/
+enabled=1
+gpgcheck=0
