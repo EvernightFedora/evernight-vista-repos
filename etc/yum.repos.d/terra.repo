@@ -1,6 +1,6 @@
 [terra]
 name=Terra for Evernight Vista $releasever
-baseurl=https://mirror.del2.albony.in/fyra/terra$releasever
+baseurl=https://mirror.june.fish/fyra/terra$releasever
 #metalink=https://tetsudou.fyralabs.com/metalink?repo=terra$releasever&arch=$basearch
 metadata_expire=6h
 type=rpm
