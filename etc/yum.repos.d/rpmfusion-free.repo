@@ -1,6 +1,6 @@
 [rpmfusion-free]
 name=RPM Fusion for Evernight Vista $releasever - Free
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/rpmfusion/free/fedora/releases/$releasever/Everything/$basearch/os/
+baseurl=https://mirrors.bfsu.edu.cn/rpmfusion/free/fedora/releases/$releasever/Everything/$basearch/os/
 #metalink=https://mirrors.rpmfusion.org/metalink?repo=free-fedora-$releasever&arch=$basearch
 enabled=1
 metadata_expire=14d
@@ -11,7 +11,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-$releasever
 
 [rpmfusion-free-debuginfo]
 name=RPM Fusion for Evernight Vista $releasever - Free - Debug
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/rpmfusion/free/fedora/releases/$releasever/Everything/$basearch/debug/
+baseurl=https://mirrors.bfsu.edu.cn/rpmfusion/free/fedora/releases/$releasever/Everything/$basearch/debug/
 #metalink=https://mirrors.rpmfusion.org/metalink?repo=free-fedora-debug-$releasever&arch=$basearch
 enabled=0
 metadata_expire=7d
@@ -22,7 +22,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-$releasever
 
 [rpmfusion-free-source]
 name=RPM Fusion for Evernight Vista $releasever - Free - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/rpmfusion/free/fedora/releases/$releasever/Everything/source/SRPMS/
+baseurl=https://mirrors.bfsu.edu.cn/rpmfusion/free/fedora/releases/$releasever/Everything/source/SRPMS/
 #metalink=https://mirrors.rpmfusion.org/metalink?repo=free-fedora-source-$releasever&arch=$basearch
 enabled=0
 metadata_expire=7d
