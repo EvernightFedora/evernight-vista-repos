@@ -1,7 +1,7 @@
 [rpmfusion-nonfree-steam]
 name=RPM Fusion for Evernight Vista $releasever - Nonfree - Steam
-baseurl=https://mirrors.bfsu.edu.cn/rpmfusion/nonfree/fedora/steam/$releasever/$basearch/
-#metalink=https://mirrors.rpmfusion.org/metalink?repo=nonfree-fedora-steam-$releasever&arch=$basearch
+#baseurl=https://mirrors.bfsu.edu.cn/rpmfusion/nonfree/fedora/steam/$releasever/$basearch/
+metalink=https://mirrors.rpmfusion.org/metalink?repo=nonfree-fedora-steam-$releasever&arch=$basearch
 enabled=0
 type=rpm-md
 gpgcheck=1

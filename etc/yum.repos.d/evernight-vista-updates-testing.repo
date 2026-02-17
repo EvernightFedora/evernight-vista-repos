@@ -1,7 +1,7 @@
 [updates-testing]
 name=Evernight Vista $releasever - $basearch - Test Updates
-baseurl=https://mirrors.jlu.edu.cn/fedora/updates/testing/$releasever/Everything/$basearch/
-#metalink=https://mirrors.fedoraproject.org/metalink?repo=updates-testing-f$releasever&arch=$basearch
+#baseurl=https://mirrors.jlu.edu.cn/fedora/updates/testing/$releasever/Everything/$basearch/
+metalink=https://mirrors.fedoraproject.org/metalink?repo=updates-testing-f$releasever&arch=$basearch
 enabled=0
 countme=1
 repo_gpgcheck=0

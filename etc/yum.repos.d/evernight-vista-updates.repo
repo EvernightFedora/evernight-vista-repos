@@ -1,7 +1,7 @@
 [updates]
 name=Evernight Vista $releasever - $basearch - Updates
-baseurl=https://mirrors.jlu.edu.cn/fedora/updates/$releasever/Everything/$basearch/
-#metalink=https://mirrors.fedoraproject.org/metalink?repo=updates-released-f$releasever&arch=$basearch
+#baseurl=https://mirrors.jlu.edu.cn/fedora/updates/$releasever/Everything/$basearch/
+metalink=https://mirrors.fedoraproject.org/metalink?repo=updates-released-f$releasever&arch=$basearch
 enabled=1
 countme=1
 repo_gpgcheck=0
