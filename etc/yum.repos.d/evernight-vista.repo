@@ -1,6 +1,6 @@
 [evernight-vista]
 name=Evernight Vista $releasever - $basearch
-baseurl=https://mirror.yer.az/fedora/development/$releasever/Everything/$basearch/os/
+baseurl=https://mirrors.jlu.edu.cn/fedora/releases/test/44_Beta/Everything/$basearch/os/
 #metalink=https://mirrors.fedoraproject.org/metalink?repo=fedora-$releasever&arch=$basearch
 enabled=1
 countme=1
