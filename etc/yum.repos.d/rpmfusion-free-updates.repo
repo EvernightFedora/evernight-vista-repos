@@ -1,7 +1,7 @@
 [rpmfusion-free-updates]
 name=RPM Fusion for Evernight Vista $releasever - Free - Updates
-#baseurl=https://mirrors.bfsu.edu.cn/rpmfusion/free/fedora/updates/$releasever/$basearch/
-metalink=https://mirrors.rpmfusion.org/metalink?repo=free-fedora-updates-released-$releasever&arch=$basearch
+baseurl=https://mirrors.bfsu.edu.cn/rpmfusion/free/fedora/updates/$releasever/$basearch/
+#metalink=https://mirrors.rpmfusion.org/metalink?repo=free-fedora-updates-released-$releasever&arch=$basearch
 enabled=0
 enabled_metadata=1
 type=rpm-md
